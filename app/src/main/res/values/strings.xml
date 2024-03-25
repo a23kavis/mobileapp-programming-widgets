@@ -4,5 +4,7 @@
     <string name="subject">Subject</string>
     <string name="message">Type your message here</string>
     <string name="send">SEND!</string>
+    <string name="title"> Send your E-Mail!</string>
+
 
 </resources>
