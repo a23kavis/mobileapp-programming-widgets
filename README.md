@@ -43,5 +43,5 @@ vilket gör att knappen hamnar på botten och messageboxen tar upp all plats den
 ```
 
 
-![](widgets.png)
+![](widgets.png) 
 
