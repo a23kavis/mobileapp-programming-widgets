@@ -5,7 +5,9 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:layout_margin="10dp"
+    android:background="@drawable/back"
     android:orientation="vertical" >
+
 
     <TextView
         android:layout_width="355dp"
