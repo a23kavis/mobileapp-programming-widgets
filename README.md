@@ -1,11 +1,8 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Rapport Uppgift 3**
 
-_Du kan ta bort all text som finns sedan tidigare_.
-
-## Följande grundsyn gäller dugga-svar:
 
 Jag har försökt bilda något som liknar en HTML Form, med en textview som heading, och edittext element för inputs.
 Detta ger en känsla likt en HTML form och med submit knappen så är allt färdigt för att lägga till funktionalitet om så önskas. 
